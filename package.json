@@ -1,0 +1,24 @@
+{
+  "name": "@yandex-cloud/browserslist-config",
+  "version": "0.0.0",
+  "description": "Browserslist config of Yandex Cloud services",
+  "main": "index.js",
+  "scripts": {
+    "lint:js": "eslint --ext .js .",
+    "lint:prettier": "prettier --check --loglevel=error '**/*.js'",
+    "lint": "npm run lint:js && npm run lint:prettier",
+    "prepublishOnly": "npm run lint",
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//yandex-cloud/browserslist-config.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@yandex-cloud/eslint-config": "^1.0.0",
+    "@yandex-cloud/prettier-config": "^1.0.0",
+    "eslint": "^8.11.0",
+    "prettier": "^2.6.0"
+  }
+}
