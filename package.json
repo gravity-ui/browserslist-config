@@ -1,0 +1,13 @@
+{
+  "name": "@yandex-cloud/browserslist-config",
+  "version": "1.0.0",
+  "description": "Browserslist config of Yandex Cloud services",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com//yandex-cloud/browserslist-config.git"
+  },
+  "license": "MIT"
+}
