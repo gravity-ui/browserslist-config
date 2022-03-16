@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "Browserslist config of Yandex Cloud services",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "scripts": {
     "lint:js": "eslint --ext .js .",
     "lint:prettier": "prettier --check --loglevel=error '**/*.js'",
