@@ -17,6 +17,9 @@
     "type": "git",
     "url": "https://github.com//yandex-cloud/browserslist-config.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "license": "MIT",
   "devDependencies": {
     "@yandex-cloud/eslint-config": "^1.0.0",
