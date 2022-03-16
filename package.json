@@ -2,6 +2,7 @@
   "name": "@yandex-cloud/browserslist-config",
   "version": "1.0.0",
   "description": "Browserslist config of Yandex Cloud services",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
