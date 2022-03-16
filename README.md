@@ -15,3 +15,7 @@ Add config to `package.json` in `browserslist` section:
   ]
 }
 ```
+
+## Usage
+
+Package provides production version of browserslist.
