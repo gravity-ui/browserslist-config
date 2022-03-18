@@ -24,7 +24,7 @@
   "devDependencies": {
     "@yandex-cloud/eslint-config": "^1.0.0",
     "@yandex-cloud/prettier-config": "^1.0.0",
-    "eslint": "^8.11.0",
-    "prettier": "^2.6.0"
+    "eslint": "8.11.0",
+    "prettier": "2.6.0"
   }
 }
