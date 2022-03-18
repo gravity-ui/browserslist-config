@@ -1,6 +1,6 @@
 {
   "name": "@yandex-cloud/browserslist-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Browserslist config of Yandex Cloud services",
   "main": "index.js",
   "files": [
