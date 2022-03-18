@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/yandex-cloud/browserslist-config/compare/v1.0.0...v1.0.1) (2022-03-18)
+
+
+### chore
+
+* fix dependencies ([#7](https://www.github.com/yandex-cloud/browserslist-config/issues/7)) ([2d757f9](https://www.github.com/yandex-cloud/browserslist-config/commit/2d757f9a3e46eccc2f0751cacbd0ee76686cce37))
+
 ## 1.0.0 (2022-03-16)
 
 
