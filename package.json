@@ -3,13 +3,17 @@
   "version": "1.0.1",
   "description": "Browserslist config of Yandex Cloud services",
   "main": "index.js",
+  "types": "index.d.ts",
   "files": [
-    "index.js"
+    "index.js",
+    "index.d.ts"
   ],
   "scripts": {
-    "lint:js": "eslint --ext .js .",
-    "lint:prettier": "prettier --check --loglevel=error '**/*.js'",
-    "lint": "npm run lint:js && npm run lint:prettier",
+    "lint:js": "eslint --ext .ts .",
+    "lint:prettier": "prettier --check --loglevel=error '**/*.ts'",
+    "lint:typecheck": "tsc --noEmit",
+    "lint": "npm run lint:js && npm run lint:prettier && npm run lint:typecheck",
+    "build": "tsc",
     "prepublishOnly": "npm run lint",
     "test": "exit 0"
   },
@@ -24,7 +28,9 @@
   "devDependencies": {
     "@yandex-cloud/eslint-config": "^1.0.0",
     "@yandex-cloud/prettier-config": "^1.0.0",
+    "@yandex-cloud/tsconfig": "^1.0.0",
     "eslint": "8.11.0",
-    "prettier": "2.6.0"
+    "prettier": "2.6.0",
+    "typescript": "^4.6.4"
   }
 }
