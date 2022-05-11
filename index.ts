@@ -1,4 +1,4 @@
-module.exports = {
+export default {
     production: [
         '> 0%',
         'not chrome < 70',
