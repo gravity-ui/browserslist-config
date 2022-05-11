@@ -2,6 +2,9 @@
   "extends": "@yandex-cloud/tsconfig/tsconfig.json",
   "compilerOptions": {
     "target": "es3",
-    "declaration": true
-  }
+    "declaration": true,
+    "outDir": "."
+  },
+  "include": ["src/**/*"],
+  "exclude": ["**/node_modules/**"]
 }

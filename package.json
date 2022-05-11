@@ -9,11 +9,13 @@
     "index.d.ts"
   ],
   "scripts": {
-    "lint:js": "eslint --ext .ts .",
-    "lint:prettier": "prettier --check --loglevel=error '**/*.ts'",
+    "lint:js": "eslint --ext .ts ./src/",
+    "lint:prettier": "prettier --check --loglevel=error './src/**/*.ts'",
     "lint:typecheck": "tsc --noEmit",
     "lint": "npm run lint:js && npm run lint:prettier && npm run lint:typecheck",
-    "build": "tsc",
+    "clean": "rm -rf index.*",
+    "build:compile": "tsc",
+    "build": "npm run clean && npm run build:compile",
     "prepublishOnly": "npm run lint && npm run build",
     "test": "exit 0"
   },
