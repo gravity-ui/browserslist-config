@@ -11,4 +11,7 @@ export = [
     'not ie_mob < 12',
     'not ios_saf < 14',
     'not android < 5',
+    'not op_mini all',
+    'not and_qq < 11',
+    'not and_uc < 13',
 ];
