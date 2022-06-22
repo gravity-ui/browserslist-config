@@ -1,5 +1,21 @@
 # Changelog
 
+## [2.0.0](https://github.com/yandex-cloud/browserslist-config/compare/v1.1.0...v2.0.0) (2022-06-22)
+
+
+### ⚠ BREAKING CHANGES
+
+* remove environment from config (#11)
+
+### Features
+
+* exclude opera mini, QQ and UC browsers ([#12](https://github.com/yandex-cloud/browserslist-config/issues/12)) ([806d614](https://github.com/yandex-cloud/browserslist-config/commit/806d6145a6e36f5a3d0fa5273de8fe45322291a0))
+
+
+### Bug Fixes
+
+* remove environment from config ([#11](https://github.com/yandex-cloud/browserslist-config/issues/11)) ([50000e3](https://github.com/yandex-cloud/browserslist-config/commit/50000e375a9aa33931369ac53d4b44d6c3fe20c6))
+
 ## [1.1.0](https://github.com/yandex-cloud/browserslist-config/compare/v1.0.1...v1.1.0) (2022-06-15)
 
 
