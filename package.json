@@ -1,7 +1,7 @@
 {
   "name": "@gravity-ui/browserslist-config",
   "version": "2.0.0",
-  "description": "Browserslist config of Gravity UI fame",
+  "description": "Browserslist config of Gravity UI packages family",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [

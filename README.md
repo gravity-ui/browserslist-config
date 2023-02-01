@@ -1,4 +1,4 @@
-# Browserslist config of Yandex Cloud services
+# Browserslist config of Gravity UI packages family
 
 ## Install
 
