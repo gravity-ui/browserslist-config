@@ -28,7 +28,7 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@yandex-cloud/eslint-config": "^1.0.0",
+    "@gravity-ui/eslint-config": "^2.0.0",
     "@yandex-cloud/prettier-config": "^1.0.0",
     "@yandex-cloud/tsconfig": "^1.0.0",
     "eslint": "8.11.0",
