@@ -3,7 +3,7 @@
 ## Install
 
 ```bash
-npm i --save-dev @yandex-cloud/browserslist-config
+npm i --save-dev @gravity-ui/browserslist-config
 ```
 
 Add config to `package.json` in `browserslist` section:
@@ -11,7 +11,7 @@ Add config to `package.json` in `browserslist` section:
 ```json
 {
   "browserslist": [
-    "extends @yandex-cloud/browserslist-config"
+    "extends @gravity-ui/browserslist-config"
   ]
 }
 ```

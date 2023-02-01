@@ -1,5 +1,5 @@
 {
-  "name": "@yandex-cloud/browserslist-config",
+  "name": "@gravity-ui/browserslist-config",
   "version": "2.0.0",
   "description": "Browserslist config of Yandex Cloud services",
   "main": "index.js",
