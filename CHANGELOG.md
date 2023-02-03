@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.0](https://github.com/gravity-ui/browserslist-config/compare/v2.0.0...v3.0.0) (2023-02-03)
+
+
+### build
+
+* migrate ([#15](https://github.com/gravity-ui/browserslist-config/issues/15)) ([d65f66d](https://github.com/gravity-ui/browserslist-config/commit/d65f66dc565c7005cf87b4436ef1951b1264a376))
+
 ## [2.0.0](https://github.com/gravity-ui/browserslist-config/compare/v1.1.0...v2.0.0) (2022-06-22)
 
 
