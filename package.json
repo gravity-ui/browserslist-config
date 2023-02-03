@@ -1,7 +1,7 @@
 {
-  "name": "@yandex-cloud/browserslist-config",
+  "name": "@gravity-ui/browserslist-config",
   "version": "2.0.0",
-  "description": "Browserslist config of Yandex Cloud services",
+  "description": "Browserslist config of Gravity UI packages family",
   "main": "index.js",
   "types": "index.d.ts",
   "files": [
@@ -21,16 +21,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/yandex-cloud/browserslist-config.git"
+    "url": "https://github.com/gravity-ui/browserslist-config.git"
   },
   "publishConfig": {
     "access": "public"
   },
   "license": "MIT",
   "devDependencies": {
-    "@yandex-cloud/eslint-config": "^1.0.0",
-    "@yandex-cloud/prettier-config": "^1.0.0",
-    "@yandex-cloud/tsconfig": "^1.0.0",
+    "@gravity-ui/eslint-config": "^2.0.0",
+    "@gravity-ui/prettier-config": "^1.0.1",
+    "@gravity-ui/tsconfig": "^1.0.0",
     "eslint": "8.11.0",
     "prettier": "2.6.0",
     "typescript": "4.6.4"
