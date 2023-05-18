@@ -1,5 +1,16 @@
 # Changelog
 
+## [4.0.0](https://github.com/gravity-ui/browserslist-config/compare/v3.0.0...v4.0.0) (2023-05-18)
+
+
+### ⚠ BREAKING CHANGES
+
+* update browsers list ([#17](https://github.com/gravity-ui/browserslist-config/issues/17))
+
+### Features
+
+* update browsers list ([#17](https://github.com/gravity-ui/browserslist-config/issues/17)) ([e5f437f](https://github.com/gravity-ui/browserslist-config/commit/e5f437fc28f3997c49d66fb928d30407efe6b7a8))
+
 ## [3.0.0](https://github.com/gravity-ui/browserslist-config/compare/v2.0.0...v3.0.0) (2023-02-03)
 
 
