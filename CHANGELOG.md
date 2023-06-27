@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.0](https://github.com/gravity-ui/browserslist-config/compare/v4.0.0...v4.1.0) (2023-06-27)
+
+
+### Features
+
+* Use last 3 versions for Chrome ([#20](https://github.com/gravity-ui/browserslist-config/issues/20)) ([d64820b](https://github.com/gravity-ui/browserslist-config/commit/d64820b4e4d1fb9a4af3634c0f5ea1c5da5df90c))
+
 ## [4.0.0](https://github.com/gravity-ui/browserslist-config/compare/v3.0.0...v4.0.0) (2023-05-18)
 
 
