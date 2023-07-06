@@ -6,4 +6,5 @@ export = [
     'not and_uc > 0',
     'Firefox ESR',
     'last 3 Chrome versions',
+    'Safari >= 15',
 ];
