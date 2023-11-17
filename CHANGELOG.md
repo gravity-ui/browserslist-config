@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.1.1](https://github.com/gravity-ui/browserslist-config/compare/v4.1.0...v4.1.1) (2023-11-17)
+
+
+### Bug Fixes
+
+* problem with FF is always treated as deprecated ([#26](https://github.com/gravity-ui/browserslist-config/issues/26)) ([4bb47f2](https://github.com/gravity-ui/browserslist-config/commit/4bb47f2042e66f454ae32310919ba27c4a329d27))
+
 ## [4.1.0](https://github.com/gravity-ui/browserslist-config/compare/v4.0.0...v4.1.0) (2023-06-27)
 
 
