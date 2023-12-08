@@ -5,7 +5,10 @@ export = [
     'not and_qq > 0',
     'not and_uc > 0',
     'Firefox ESR',
-    'last 3 Chrome versions',
+    // For support more Chromium browsers
+    'last 7 Chrome versions',
+    // For support Safari 15
+    'Safari >= 15.6 and > 0.1%',
     //#FIXME: this is done temporarily to fix https://github.com/browserslist/browserslist-useragent/issues/80
     'Firefox >= 109',
 ];
