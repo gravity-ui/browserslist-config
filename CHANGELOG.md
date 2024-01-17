@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.3.0](https://github.com/gravity-ui/browserslist-config/compare/v4.2.0...v4.3.0) (2024-01-17)
+
+
+### Features
+
+* Update config with year-based browsers selection ([#30](https://github.com/gravity-ui/browserslist-config/issues/30)) ([8f881de](https://github.com/gravity-ui/browserslist-config/commit/8f881de80d6bf602a2ab0bd2c64dace4e7f9ccf4))
+
 ## [4.2.0](https://github.com/gravity-ui/browserslist-config/compare/v4.1.1...v4.2.0) (2023-12-08)
 
 
