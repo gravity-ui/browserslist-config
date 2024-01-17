@@ -13,9 +13,10 @@
     "lint:prettier": "prettier --check --loglevel=error './src/**/*.ts'",
     "lint:typecheck": "tsc --noEmit",
     "lint": "npm run lint:js && npm run lint:prettier && npm run lint:typecheck",
-    "clean": "rm -rf index.*",
+    "clean": "rm -rf index.* generate-link.*",
     "build:compile": "tsc",
-    "build": "npm run clean && npm run build:compile",
+    "build:readme": "node generate-link.js",
+    "build": "npm run clean && npm run build:compile && npm run build:readme",
     "prepublishOnly": "npm run lint && npm run build",
     "test": "exit 0"
   },
@@ -28,11 +29,12 @@
   },
   "license": "MIT",
   "devDependencies": {
-    "@gravity-ui/eslint-config": "^2.0.0",
-    "@gravity-ui/prettier-config": "^1.0.1",
+    "@gravity-ui/eslint-config": "^3.1.1",
+    "@gravity-ui/prettier-config": "^1.1.0",
     "@gravity-ui/tsconfig": "^1.0.0",
-    "eslint": "8.11.0",
-    "prettier": "2.6.0",
-    "typescript": "4.6.4"
+    "@types/node": "^18.19.8",
+    "eslint": "^8.56.0",
+    "prettier": "^3.2.3",
+    "typescript": "^5.3.3"
   }
 }
