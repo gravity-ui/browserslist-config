@@ -1,10 +1,11 @@
 {
   "extends": "@gravity-ui/tsconfig/tsconfig.json",
   "compilerOptions": {
-    "target": "es3",
+    "target": "ES2022",
     "declaration": true,
     "outDir": "."
   },
+  "types": ["node"],
   "include": ["src/**/*"],
   "exclude": ["**/node_modules/**"]
 }
