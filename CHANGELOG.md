@@ -1,5 +1,12 @@
 # Changelog
 
+## [4.4.0](https://github.com/gravity-ui/browserslist-config/compare/v4.3.0...v4.4.0) (2026-04-23)
+
+
+### Features
+
+* use last 3 years browsers and drop majors ([#34](https://github.com/gravity-ui/browserslist-config/issues/34)) ([af40fb4](https://github.com/gravity-ui/browserslist-config/commit/af40fb4900783e05d3c65c1b4dd9fc1322dea758))
+
 ## [4.3.0](https://github.com/gravity-ui/browserslist-config/compare/v4.2.0...v4.3.0) (2024-01-17)
 
 
