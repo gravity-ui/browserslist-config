@@ -1,5 +1,16 @@
 # Changelog
 
+## [5.0.0](https://github.com/gravity-ui/browserslist-config/compare/v4.4.0...v5.0.0) (2026-06-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Migrate to baseline rule ([#37](https://github.com/gravity-ui/browserslist-config/issues/37))
+
+### refactor
+
+* Migrate to baseline rule ([#37](https://github.com/gravity-ui/browserslist-config/issues/37)) ([2deab73](https://github.com/gravity-ui/browserslist-config/commit/2deab73be6626e312bb2b2acdb13f49c4dea8463))
+
 ## [4.4.0](https://github.com/gravity-ui/browserslist-config/compare/v4.3.0...v4.4.0) (2026-04-23)
 
 
